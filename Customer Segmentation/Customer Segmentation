@@ -1,2 +1,10 @@
-This is a Kmeans customer segmentation with Python 
+This is a KMeans customer segmentation analysis conducted in Python.
+
+The objective is to identify distinct groups of customers to better target the market. 
+After conducting preliminary data analysis, I applied the KMeans clustering algorithm to partition the customers into clusters.
+
+Interestingly, through comparisons with various preprocessing techniques, it appears that the model performs better when applied without any preprocessing steps. 
+This finding suggests that the inherent structure of the data is effectively captured by the raw features without the need for scaling or other preprocessing techniques.
+
+Conclusion:
 
