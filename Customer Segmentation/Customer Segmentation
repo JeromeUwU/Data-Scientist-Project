@@ -6,5 +6,5 @@ After conducting preliminary data analysis, I applied the KMeans clustering algo
 Interestingly, through comparisons with various preprocessing techniques, it appears that the model performs better when applied without any preprocessing steps. 
 This finding suggests that the inherent structure of the data is effectively captured by the raw features without the need for scaling or other preprocessing techniques.
 
-Conclusion:
+
 
