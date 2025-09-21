@@ -1,10 +1,10 @@
-## EEG Sandbox — Signal ➜ Features ➜ Indices ➜ (Option) Classif
+# EEG Sandbox — Signal ➜ Features ➜ Indices ➜ (Option) Classif
 
-Mini-projets pour apprendre à traiter de l’EEG, en extraire des features interprétables et construire des indices utilisables en clinique ou en démo temps réel. Deux jeux de données sont utilisés :
+## Mini-projets pour apprendre à traiter de l’EEG, en extraire des features interprétables et construire des indices utilisables en clinique ou en démo temps réel. Deux jeux de données sont utilisés :
 
-DEAP (extrait sans labels) — entraînement “signal-first” : filtres, fenêtres, band-powers (θ/α/β), PAF, θ/β frontal, heatmaps, stabilité.
+- DEAP (extrait sans labels) — entraînement “signal-first” : filtres, fenêtres, band-powers (θ/α/β), PAF, θ/β frontal, heatmaps, stabilité.
 
-Muse Emotions (features + labels) — entraînement “supervisé” : standardisation, LDA/LogReg, permutation importance, indice LDA 1D (“Emotion Index”).
+- Muse Emotions (features + labels) — entraînement “supervisé” : standardisation, LDA/LogReg, permutation importance, indice LDA 1D (“Emotion Index”).
 
 But : se constituer un socle EEG/ML propre (pipeline + évaluation + indice prêt temps réel) transférable ensuite à un contexte clinique (MPVC/neuromarqueurs + neurofeedback).
 
