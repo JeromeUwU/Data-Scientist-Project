@@ -1,4 +1,4 @@
-EEG Sandbox — Signal ➜ Features ➜ Indices ➜ (Option) Classif
+## EEG Sandbox — Signal ➜ Features ➜ Indices ➜ (Option) Classif
 
 Mini-projets pour apprendre à traiter de l’EEG, en extraire des features interprétables et construire des indices utilisables en clinique ou en démo temps réel. Deux jeux de données sont utilisés :
 
