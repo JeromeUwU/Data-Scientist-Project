@@ -62,3 +62,4 @@
 - L’indice LDA est un composite statistique (interprétable), pas un biomarqueur neuro validé.
 
 
+
