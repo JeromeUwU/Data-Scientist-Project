@@ -1,0 +1,8 @@
+EEGSIGNAL/data/
+EEGSIGNAL/figures/*.png
+*.parquet
+*.npz
+*.npy
+.venv/
+__pycache__/
+.ipynb_checkpoints/
