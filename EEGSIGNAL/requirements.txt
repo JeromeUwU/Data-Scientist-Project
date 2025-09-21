@@ -7,3 +7,4 @@ pyarrow
 fastparquet
 scikit-learn 
 seaborn 
+streamlit
